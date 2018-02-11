@@ -1,0 +1,141 @@
+$fonts: 'Roboto', sans-serif;
+$htw-lightocker: #e9e5de;
+$htw-ocker: #b39048;
+$htw-blue: #4b92a4;
+
+@mixin bg-htw-ocker() {
+  color: white;
+  background-color: $htw-ocker
+}
+
+@mixin bg-htw-blue() {
+  color: white;
+  background-color: $htw-blue
+}
+
+@mixin padding-top-bottom($size) {
+  padding-top: $size;
+  padding-bottom: $size;
+}
+
+@mixin week-grid() {
+  display:grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+@mixin date-cell() {
+  fill: both;
+}
+
+body {
+  font-family: $fonts;
+  background-color: $htw-lightocker;
+  padding-right: 20px;
+  padding-left: 20px;
+
+  a:link, a:visited {
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover {
+      color: $htw-blue;
+      text-decoration: none;
+  }
+
+  a:active {
+      color: white;
+      text-decoration: none;
+  }
+
+  h1 {
+    @include bg-htw-blue;
+    text-align: center;
+    @include padding-top-bottom(20px);
+  }
+
+  .calendar {
+
+    .calendar-month {
+      display: grid;
+      grid-template-columns: 50px auto 50px;
+      @include bg-htw-ocker;
+      font-size: 1.5em;
+      font-weight: bold;
+      @include padding-top-bottom(20px);
+
+      .prev-month {
+        padding-left: 1em;
+        grid-column: 1 / 1;
+        grid-row: 1 / 1;
+        display: inline;
+        width: 50px;
+      }
+
+      .month-name {
+        grid-column: 2 / 2;
+        grid-row: 1 / 1;
+        text-align: center;
+        display: inline;
+        width: auto;
+      }
+
+      .next-month {
+        grid-column: 3 / 3;
+        grid-row: 1 / 1;
+        display: inline;
+        width: 50px;
+      }
+    }
+
+    .calendar-body {
+      .weekdays {
+        @include bg-htw-blue;
+        @include padding-top-bottom(10px);
+        @include week-grid;
+        font-size: 1.2em;
+        font-weight: 300;
+
+
+        .weekday {
+          text-align: center;
+        }
+      }
+
+      .matrix {
+        @include week-grid;
+        grid-template-rows: auto auto auto auto auto;
+        grid-gap: 1px;
+        height: 500px;
+        overflow: auto;
+
+        .day {
+          @include date-cell;
+          padding: 5px;
+          background-color: white;
+
+          .day-number {
+            padding-bottom: 10px;
+            color: $htw-blue;
+            font-weight: bold;
+            float: right;
+          }
+
+          .event {
+            padding: 5px;
+            margin: 5px 35px 5px 5px;
+            background-color: $htw-lightocker;
+            border: $htw-ocker solid 2px;
+            border-radius: 5px;
+          }
+        }
+
+        .out-of-month {
+          @include date-cell;
+          background-color: lightgrey;
+        }
+      }
+    }
+
+  }
+}

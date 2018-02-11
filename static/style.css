@@ -1,0 +1,84 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #e9e5de;
+  padding-right: 20px;
+  padding-left: 20px; }
+  body a:link, body a:visited {
+    color: white;
+    text-decoration: none; }
+  body a:hover {
+    color: #4b92a4;
+    text-decoration: none; }
+  body a:active {
+    color: white;
+    text-decoration: none; }
+  body h1 {
+    color: white;
+    background-color: #4b92a4;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px; }
+  body .calendar .calendar-month {
+    display: grid;
+    grid-template-columns: 50px auto 50px;
+    color: white;
+    background-color: #b39048;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px; }
+    body .calendar .calendar-month .prev-month {
+      padding-left: 1em;
+      grid-column: 1 / 1;
+      grid-row: 1 / 1;
+      display: inline;
+      width: 50px; }
+    body .calendar .calendar-month .month-name {
+      grid-column: 2 / 2;
+      grid-row: 1 / 1;
+      text-align: center;
+      display: inline;
+      width: auto; }
+    body .calendar .calendar-month .next-month {
+      grid-column: 3 / 3;
+      grid-row: 1 / 1;
+      display: inline;
+      width: 50px; }
+  body .calendar .calendar-body .weekdays {
+    color: white;
+    background-color: #4b92a4;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    font-size: 1.2em;
+    font-weight: 300; }
+    body .calendar .calendar-body .weekdays .weekday {
+      text-align: center; }
+  body .calendar .calendar-body .matrix {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: auto auto auto auto auto;
+    grid-gap: 1px;
+    height: 500px;
+    overflow: auto; }
+    body .calendar .calendar-body .matrix .day {
+      fill: both;
+      padding: 5px;
+      background-color: white; }
+      body .calendar .calendar-body .matrix .day .day-number {
+        padding-bottom: 10px;
+        color: #4b92a4;
+        font-weight: bold;
+        float: right; }
+      body .calendar .calendar-body .matrix .day .event {
+        padding: 5px;
+        margin: 5px 35px 5px 5px;
+        background-color: #e9e5de;
+        border: #b39048 solid 2px;
+        border-radius: 5px; }
+    body .calendar .calendar-body .matrix .out-of-month {
+      fill: both;
+      background-color: lightgrey; }
+
+/*# sourceMappingURL=style.css.map */

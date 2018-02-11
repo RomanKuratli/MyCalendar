@@ -1,0 +1,612 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//HTW Chur SII//DE
+CALSCALE:GREGORIAN
+
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+
+X-WR-CALNAME;VALUE=TEXT:Stundenplan HTW IW15vz - RIWM FS 1 STETTLER, NIKLAUS,  WENK, REA,  ASCHWANDEN, MICHAEL
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180220t101500-riwm-29@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180220T101500
+DTEND;TZID="W. Europe Standard Time":20180220T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180220t131500-riwm-30@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180220T131500
+DTEND;TZID="W. Europe Standard Time":20180220T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180227t101500-riwm-31@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180227T101500
+DTEND;TZID="W. Europe Standard Time":20180227T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180227t131500-riwm-32@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180227T131500
+DTEND;TZID="W. Europe Standard Time":20180227T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180306t101500-riwm-33@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180306T101500
+DTEND;TZID="W. Europe Standard Time":20180306T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180306t131500-riwm-34@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180306T131500
+DTEND;TZID="W. Europe Standard Time":20180306T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180313t101500-riwm-35@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180313T101500
+DTEND;TZID="W. Europe Standard Time":20180313T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180313t131500-riwm-36@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180313T131500
+DTEND;TZID="W. Europe Standard Time":20180313T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180320t101500-riwm-37@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180320T101500
+DTEND;TZID="W. Europe Standard Time":20180320T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180320t131500-riwm-38@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180320T131500
+DTEND;TZID="W. Europe Standard Time":20180320T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180327t101500-riwm-39@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180327T101500
+DTEND;TZID="W. Europe Standard Time":20180327T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180327t131500-riwm-40@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180327T131500
+DTEND;TZID="W. Europe Standard Time":20180327T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180410t101500-riwm-41@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180410T101500
+DTEND;TZID="W. Europe Standard Time":20180410T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180410t131500-riwm-42@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180410T131500
+DTEND;TZID="W. Europe Standard Time":20180410T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180417t101500-riwm-43@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180417T101500
+DTEND;TZID="W. Europe Standard Time":20180417T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180417t131500-riwm-44@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180417T131500
+DTEND;TZID="W. Europe Standard Time":20180417T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180424t101500-riwm-45@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180424T101500
+DTEND;TZID="W. Europe Standard Time":20180424T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180424t131500-riwm-46@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180424T131500
+DTEND;TZID="W. Europe Standard Time":20180424T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180501t101500-riwm-47@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180501T101500
+DTEND;TZID="W. Europe Standard Time":20180501T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180501t131500-riwm-48@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180501T131500
+DTEND;TZID="W. Europe Standard Time":20180501T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180508t101500-riwm-49@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180508T101500
+DTEND;TZID="W. Europe Standard Time":20180508T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180508t131500-riwm-50@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180508T131500
+DTEND;TZID="W. Europe Standard Time":20180508T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180515t101500-riwm-51@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180515T101500
+DTEND;TZID="W. Europe Standard Time":20180515T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180515t131500-riwm-52@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180515T131500
+DTEND;TZID="W. Europe Standard Time":20180515T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180522t101500-riwm-53@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180522T101500
+DTEND;TZID="W. Europe Standard Time":20180522T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180522t131500-riwm-54@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180522T131500
+DTEND;TZID="W. Europe Standard Time":20180522T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180529t101500-riwm-55@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180529T101500
+DTEND;TZID="W. Europe Standard Time":20180529T115000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=de-ch:IW15vz RIWM (Records-, Informations- und Wissensmanagement)
+DESCRIPTION:Modul: IW15vz Records-, Informations- und Wissensmanagement (RIWM)\nLehrpersonen: Stettler, Niklaus,  Wenk, Rea,  Aschwanden, Michael\nRaum: 
+LOCATION:
+UID:iw15vz-riwm-20180529t131500-riwm-56@htwchur.ch
+DTSTAMP:20180123T164313Z
+DTSTART;TZID="W. Europe Standard Time":20180529T131500
+DTEND;TZID="W. Europe Standard Time":20180529T145000
+ATTENDEE;CN="Stettler, Niklaus":mailto:niklaus.stettler@htwchur.ch
+ATTENDEE;CN=" Wenk, Rea":mailto: rea.wenk@lgt.com
+ATTENDEE;CN=" Aschwanden, Michael":mailto: michael.aschwanden@htwchur.ch
+CATEGORIES:IW15vz RIWM Stundenplan
+PRIORITY:5
+SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR

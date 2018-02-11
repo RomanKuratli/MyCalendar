@@ -1,0 +1,50 @@
+{% macro render_event(event) -%}
+    <div class="event">
+        <em>{{ event["start"]|time }} - {{ event["end"]|time }}</em><br/>
+        {{ event["summary"] }}
+    </div>
+{%- endmacro %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <title>My Calendar by Roman Kuratli</title>
+</head>
+<body>
+    <h1>My Calendar by Roman Kuratli</h1>
+    <div class="calendar">
+        <div class="calendar-month">
+            <div class="prev-month" ><a href="{{ url_for("previous_month") }}">&lt;&lt;</a></div>
+            <div class="month-name">{{ month_name }} {{ year }}</div>
+            <div class="next-month"><a href="{{ url_for("next_month") }}">&gt;&gt;</a></div>
+        </div>
+        <div class="calendar-body">
+            <div class="weekdays">
+                {% for day in day_names %}
+                <div class="weekday">{{ day }}</div>
+                {% endfor %}
+            </div>
+            <div class="matrix">
+                {% for week in month %}
+                    {% for day in week[:5] %}
+                        {% if day %}
+                            <div class="day">
+                                <div class="day-number">{{ day }}</div>
+                                {% if day in events %}
+                                    {% for event in events[day] %}
+                                        {{ render_event(event) }}
+                                    {% endfor %}
+                                {% endif %}
+                            </div>
+                        {% else %}
+                            <div class="out-of-month"></div>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</body>
+</html>
